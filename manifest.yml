@@ -1,5 +1,5 @@
 ---
 applications:
-- name: hello-world-app
+- name: hello-world-rohitapp
   memory: 512M
   
