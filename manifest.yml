@@ -2,4 +2,3 @@
 applications:
 - name: rohitgkk-app
   memory: 512M
-  path: workspace
