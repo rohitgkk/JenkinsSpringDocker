@@ -8,6 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class RootController {
 	@RequestMapping("/")
 	 public String home() {
-		 return "Hello- World......Jenkins To CF Testing.";
+		 return "Hi Welcome! This is a spring-boot app POC to test build and deploy to PCF by Jenkins.";
 	 }
 }
