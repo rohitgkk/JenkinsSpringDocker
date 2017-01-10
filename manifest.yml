@@ -1,5 +1,5 @@
 ---
 applications:
-- name: rohitgkk-app
+- name: jenkins-poc-app
   memory: 512M
   path: target/spring-0.0.1-SNAPSHOT.jar
