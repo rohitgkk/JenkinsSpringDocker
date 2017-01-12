@@ -5,7 +5,7 @@
 
 	<groupId>com.TmobileDemo</groupId>
 	<!-- <artifactId>spring</artifactId> -->
-        <artifactId>gs-spring-boot-docker</artifactId>
+        <artifactId>gsspringbootdocker</artifactId>
 	<version>0.1.0</version>
 	<packaging>jar</packaging>
 
